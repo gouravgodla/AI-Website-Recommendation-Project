@@ -1,2 +1,2 @@
 # MyFirstWebsite
-This  website tell you best  AI website Available On Internet
+This  website tells you the best  AI website Available On the Internet
